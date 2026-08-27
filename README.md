@@ -55,15 +55,4 @@ Accuracy Comparison
 Confusion Matrix
 
 
-### 📁 Project Structure
-Breast-Cancer-Prediction/
-│
-├── Breast_Cancer_Prediction.ipynb
-└── README.md
-
-### ▶️ How to Run
-1. Clone this repository.
-2. Open Breast_Cancer_Prediction.ipynb in Jupyter Notebook or Google Colab.
-3. Install the required Python libraries.
-4. Run the notebook cells from top to bottom.
 
