@@ -54,5 +54,14 @@ Accuracy Comparison
    ↓
 Confusion Matrix
 
+## 📈 Results
+
+The models were evaluated using classification accuracy.
+
+| Model | Accuracy |
+|-------|----------|
+| Logistic Regression (L1) | 98.25% |
+
+The Logistic Regression model with L1 regularization achieved an accuracy of **98.25%** on the test set.
 
 
